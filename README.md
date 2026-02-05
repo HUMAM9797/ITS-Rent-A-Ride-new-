@@ -214,13 +214,6 @@ dotnet ef migrations remove --project src/RentARide.Infrastructure --startup-pro
 2. Make your changes
 3. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 👥 Authors
-
-- Your Name
 
 ## 🙏 Acknowledgments
 
